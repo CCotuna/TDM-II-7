@@ -1,0 +1,11 @@
+{
+  "name": "Tema7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CCotuna <calin.cotuna@emanuel.ro>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "bootstrap-icons": "^1.11.1"
+  }
+}
