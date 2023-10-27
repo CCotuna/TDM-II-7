@@ -20,5 +20,9 @@
 }
 
 @media (min-width: 1200px) and (min-height: 1241px){
-   
+   .padding-squares {
+    margin-top:2rem;
+    margin-right: 12rem;
+    margin-left: 12rem;
+   }
 }
